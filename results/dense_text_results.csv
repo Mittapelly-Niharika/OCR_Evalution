@@ -1,0 +1,8 @@
+image,accuracy,cer,wer,confidence,missing
+dense_000.png,82.4,21.3,36.0,94.9,35
+dense_001.png,83.4,54.9,72.9,95.1,21
+dense_002.png,84.9,14.2,29.7,98.1,25
+dense_003.png,81.8,17.8,36.4,97.2,28
+dense_004.png,93.5,42.2,57.4,97.0,7
+dense_005.png,87.4,24.9,35.2,94.5,20
+AVERAGE,85.6,29.2,44.6,,

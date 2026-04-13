@@ -1,0 +1,7 @@
+image,gt_text,openai_text,paddle_accuracy,openai_accuracy,improvement,cer_before,cer_after,wer_before,wer_after
+handwritten_000.png,put down a resolution on the subject,put down a resolution on the subject,14.3,100.0,85.7,50.0,0.0,85.7,0.0
+handwritten_001.png,and he is to be backed by Mr. Will,and he is to be backed by Mr. Wili,11.1,88.9,77.8,69.7,3.0,88.9,11.1
+handwritten_002.png,nominating any more Labour life Peers,nominating any more Labour life Peers.,50.0,100.0,50.0,70.3,0.0,83.3,0.0
+handwritten_003.png,M Ps tomorrow. Mr. Michael Foot has,MPs tomorrow. Mr. Michael Foot has,0.0,71.4,71.4,57.6,3.0,100.0,28.6
+handwritten_004.png,"Griffiths, M P for Manchester Exchange .","Griffiths, MP for Manchester Exchange",0.0,66.7,66.7,100.0,2.7,100.0,33.3
+handwritten_005.png,is to be made at a meeting of Labour,is to be made at a meeting at Labour,11.1,88.9,77.8,77.8,5.6,100.0,11.1

@@ -1,0 +1,7 @@
+image,gt_text,ocr_text,accuracy_before,accuracy_after,accuracy_change,confidence
+scene_000.png,LAKES,eles,100.0,0.0,-100.0,38.8
+scene_001.png,SUNIL,NINNS,100.0,0.0,-100.0,70.5
+scene_002.png,200,200,100.0,100.0,0.0,80.7
+scene_003.png,ENJOY,,0.0,0.0,0.0,0.0
+scene_004.png,HOUSE,ROUSE,0.0,0.0,0.0,82.3
+scene_005.png,NOW,MON,0.0,0.0,0.0,99.8

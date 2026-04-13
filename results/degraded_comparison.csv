@@ -1,0 +1,7 @@
+image,accuracy_before,accuracy_after,accuracy_change,cer_before,cer_after,wer_before,wer_after,confidence
+degraded_000.png,89.7,89.7,0.0,12.7,12.7,22.1,22.1,98.2
+degraded_001.png,0.0,0.0,0.0,98.5,100.0,100.0,100.0,0.0
+degraded_002.png,85.7,85.7,0.0,32.2,32.2,45.2,45.2,95.4
+degraded_003.png,50.7,50.7,0.0,75.3,75.3,96.8,96.8,82.8
+degraded_004.png,52.2,52.2,0.0,43.5,43.5,75.6,75.6,87.3
+degraded_005.png,0.0,0.0,0.0,98.9,100.0,100.0,100.0,74.6

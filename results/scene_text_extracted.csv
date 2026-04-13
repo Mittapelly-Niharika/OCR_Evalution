@@ -1,0 +1,7 @@
+image,gt_text,ocr_text,match
+scene_000.png,LAKES,Lakes,YES
+scene_001.png,SUNIL,SUNIL,YES
+scene_002.png,200,200,YES
+scene_003.png,ENJOY,Enjol,NO
+scene_004.png,HOUSE,JOUSE,NO
+scene_005.png,NOW,MON,NO

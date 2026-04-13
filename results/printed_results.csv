@@ -1,0 +1,8 @@
+image,accuracy,cer,wer,confidence,missing
+printed_000.png,90.4,12.3,20.6,98.4,12
+printed_001.png,92.1,61.9,81.5,97.8,17
+printed_002.png,80.2,32.9,46.0,95.1,15
+printed_003.png,83.0,76.8,97.2,97.8,37
+printed_004.png,60.0,41.8,70.0,98.1,18
+printed_005.png,86.4,22.9,33.1,95.1,24
+AVERAGE,82.0,41.4,58.1,,
