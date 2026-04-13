@@ -1,3 +1,10 @@
+## Dataset
+
+Dataset is included in the repository under the `Data/` folder.
+6 document categories — printed, degraded, dense text, 
+handwritten, receipts, scene text.
+36 images total with ground truth annotations.
+
 # PaddleOCR Evaluation
 
 Systematic evaluation of PaddleOCR 3.4.0 across 6 real-world 
